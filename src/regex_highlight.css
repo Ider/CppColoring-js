@@ -1,0 +1,37 @@
+body{font-family:Courier New;}
+legend{font-weight:bold;}
+fieldset{margin-bottom:30px;}
+
+#Codes_Content{width:100%; height:500px;}
+
+#hearder_caption span{display:inline-table;}
+
+#Text_Wrapper_Area {padding-bottom:20px;margin-bottom:20px; border-bottom:4px ridge #000;}
+#Text_Wrapper_Area  input[type="button"]{width:270px; font-size:16px;}
+#Text_Wrapper_Area  select{width:70px;}
+#Text_Wrapper_Area  input[type="textbox"]{width:180px;}
+
+#Quick_Action_Area input[type="button"]{width:270px; font-size:16px; background-color:#E5EECC; }
+
+#other_segment{margin-bottom:5px;}
+#other_segment  input[type="button"]{width:120px;}
+#other_segment  select{width:70px;}
+#other_segment  input[type="textbox"]{width:180px;}
+
+#other_addition_segment  input[type="button"]{width:120px;}
+#other_addition_segment  input[type="textbox"]{width:260px;}
+
+#Link_Wrapper_Area  input[type="button"]{width:120px;}
+#Link_Wrapper_Area  input[type="textbox"]{width:260px;}
+
+#Link_Records{padding-top:10px;}
+#Link_Records label{display:block;}
+
+
+#css_url{width:400px;}
+
+#Present_Area{margin-bottom:10px;}
+#styling_presentation{border:1px solid #999; min-height:200px; padding: 10px 20px;}
+
+
+
