@@ -1,4 +1,4 @@
-# Regular Expression based C++ Syntax Coloring
+# Regular Expression based C++ Syntax Highlight
 ---
 
  this project is for posting colorful C++ codes on website, as the color of text for programmers is really meaningful, and I also want the color for the codes would be easily changed.
