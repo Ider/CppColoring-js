@@ -1,4 +1,4 @@
-# Regrex base C++ Syntax Coloring
+# Regular Expression based C++ Syntax Coloring
 ---
 
  this project is for posting colorful C++ codes on website, as the color of text for programmers is really meaningful, and I also want the color for the codes would be easily changed.
@@ -11,4 +11,4 @@
 
 
 
-[View demo my my blog](http://files.cnblogs.com/ider/regex_highlight_for_cpp.xml).
+[View demo on my blog](http://files.cnblogs.com/ider/regex_highlight_for_cpp.xml).
